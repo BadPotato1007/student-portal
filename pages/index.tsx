@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div>uwu</div>
+      <div className="text-center text-3xl text-blue-500">uwu</div>
     </React.Fragment>
   );
 };
