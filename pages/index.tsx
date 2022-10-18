@@ -12,6 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <div className="text-center text-3xl text-blue-500">The Student Portal</div>
+      The one place for all you need
     </React.Fragment>
   );
 };
